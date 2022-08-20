@@ -1,0 +1,10 @@
+.cat{
+    display: flex;
+    justify-content: space-evenly;
+}
+.no{
+    margin:50px 10px 0 0
+}
+img{
+    width: 300px;
+}

@@ -1,0 +1,13 @@
+.edit{
+    height: 35px;
+    background-color: yellowgreen;
+}
+.cancel{
+    height: 35px;
+    background-color: #4FA651;
+}
+.update{
+    height: 30px;
+    width: 205px;
+    font-size: 16px;
+}
