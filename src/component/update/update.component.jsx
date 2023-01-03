@@ -8,7 +8,7 @@ const Update=()=>{
     //const {changeTask,temp,flag,todoList,clickToUpdateTask,cancelChange} =useContext(TodoContext)
     const dispatch=useDispatch();
     const flag=useSelector(selectFlag)
-    const temp=useSelector(selectTemp)
+    const temp=useSelector(selectTemp) 
     const todoList=useSelector(selectTodo)
 
     return (
