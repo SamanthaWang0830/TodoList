@@ -1,0 +1,56 @@
+.task {
+    width: 70%;
+    height: 50px;
+    display: flex;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    background-Color :#06EB00;
+    color: black;
+    padding-right: 10px;
+}
+
+.done{
+    background-color: #7BC5AE;
+    text-decoration: line-through;
+    font-style: italic;
+    opacity: 0.3;
+}
+
+.id{
+    flex: 1;
+}
+
+.thing{
+    flex:15
+}
+  
+.task span {
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 10px;
+    text-align: center;
+    flex:1;
+    color:#7D817D;
+}
+.task span:hover{
+    color:yellow;
+    cursor:pointer;
+}
+
+.index{
+    color: #7D817D;
+    border: 2px solid #7D817D;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    display: flex;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 450;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}

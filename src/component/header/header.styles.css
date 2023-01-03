@@ -1,0 +1,20 @@
+h1{
+    color: antiquewhite;
+    margin-top: 30px;
+}
+.addTask{
+    margin : 60px auto 30px auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.addTask input{
+    height: 30px;
+    width: 250px;
+    font-size: 17px;
+}
+.addTask button {
+    height: 36px;
+    background-color: yellowgreen;
+}
